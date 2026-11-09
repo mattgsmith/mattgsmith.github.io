@@ -12,7 +12,7 @@ My research interests are general relativity and the compressible Euler equation
 ## Publications
 
 1. Shell crossing and the dynamical formation of thin shells
-in the collapse of self-gravitating relativistic dust, in preparation
+in the collapse of self-gravitating relativistic dust, in preparation.
 
 ## Talks
 

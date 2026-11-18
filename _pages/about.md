@@ -16,6 +16,6 @@ in the collapse of self-gravitating relativistic dust, <https://arxiv.org/abs/26
 
 ## Talks
 
+- Junior Analysis Seminar, Imperial, November 2025
 - Oxbridge PDE Conference, University of Oxford, March 2025
-
 - GR Seminar, University of Cambridge, March 2025
